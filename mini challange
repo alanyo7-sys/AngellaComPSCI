@@ -1,0 +1,5 @@
+Write a program that: 
+1. Loops from 1 to 20 
+2. Prints “Fizz” for multiples of 3 
+3. Prints “Buzz” for multiples of 5 
+4. Prints “FizzBuzz” for multiples of both
